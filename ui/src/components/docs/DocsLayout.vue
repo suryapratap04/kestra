@@ -177,7 +177,7 @@
             border: 1px solid var(--bs-border-secondary-color);
 
             @media only screen and (max-width: 1919px) {
-                padding-top: 56.25%;
+                padding-top: 40%;
                 height: auto;
                 background-color: transparent;
             }
